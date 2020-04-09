@@ -1,0 +1,33 @@
+Local Environment
+		Devloper's dessktop.where devloper develop software in thier 
+		local system that is not connnectes to any of the company server.
+
+Devlopment Environment
+		Devlopment Environment is a platform which id devloped to specifically for developers. 
+		Developers can develop or they can write up the codehere they can perform whitebox testing.
+		Generally, it is accessed by developers for writing new lines of code as well as bug fixes. 
+		The Devlopment server gives a run-time environment where the program developed and debugged.
+		
+Software Intigration Testing Environment
+		The test engineers access it for conducting all the types of testing and also obtain by 
+		developers for reproducing the bugs. In this server, we will perform the unit and integration testing.
+
+User Acceptance Testing Environment
+		We take another server to check the compatibility of the server because the production server 
+		is highly configured, so we need a similar server where we can perform the system testing.
+		This server helps us to identify the software performance, behavior, bugs, and other issues 
+		before the application is deployed into the production server.
+
+Production Environment
+		The server, which consists of software, hardware, and the application development environment, 
+		is known as the production server. It is a core server in which the users access any 
+		web application or website. The production URL accesses the production server.
+		Once the application is developed/tested/stable, then it is deployed into the production environment.
+
+
+
+
+
+
+
+
